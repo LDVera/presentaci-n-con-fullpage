@@ -62,7 +62,7 @@
 }
 
 .segundaSeccion {
-    font-size: 120px;
+    font-size: 90px;
 }
 
 .vscode {
@@ -75,6 +75,14 @@
 
 .tamañot {
     font-size: 40px;
+}
+
+.tamañot2 {
+    font-size: 25px;
+}
+
+.tamañot3 {
+    font-size: 50px;
 }
 
 .textoBienvenida {
