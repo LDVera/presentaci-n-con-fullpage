@@ -109,6 +109,14 @@
     position: relative;
 }
 
+.redesy {
+    background-color: rgba(1, 63, 157, 0.13);
+}
+
+.informacion {
+    background-color: rgba(160, 160, 160, 0.13);
+}
+
 
 /*ESTILOS PROPIOS*/
 
